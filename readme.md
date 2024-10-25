@@ -1,5 +1,5 @@
 > ![alt text](image.png)
-<h1 align="center">hey! 👋 i'm sdhhf!</h1>
+<h2 align="center">hey! 👋 i'm sdhhf!</h2>
 <a href="#"><img align="right" src="https://raw.githubusercontent.com/sdhhf1245/stats/refs/heads/output/generated/overview.svg" /></a>
 
 ---
